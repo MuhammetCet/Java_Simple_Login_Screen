@@ -1,0 +1,5 @@
+#root{
+    -fx-background-image: url("login_wp.jpg");
+    -fx-background-size: cover;
+    -fx-border-radius: 250;
+}
